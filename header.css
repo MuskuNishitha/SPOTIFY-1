@@ -1,0 +1,116 @@
+body{
+    background-color: black !important;
+}
+#maindiv{
+    top:8px;
+    position:fixed;
+    height:160px;
+    width:320px;
+    background-color: rgb(20, 20, 20);
+    border-radius:10px;
+    color:white;
+}
+
+.display{
+    display: flex;
+}
+#innerdiv{
+    top:180px;
+    position:fixed;
+    height:400px;
+    width:320px;
+    background-color: rgb(20, 20, 20);
+    border-radius:10px;
+    color: white;
+}
+#movecon p{
+    margin-top: -1px;
+    font-weight: bold;
+}
+#hom{
+    margin-top: 7px;
+}
+#footercolor{
+margin-top:600px;
+    width: 1350px;
+    height:50px;
+    background-image: linear-gradient(#fd7dbd,rgb(42, 118, 180));
+
+}
+#movecon{
+margin-top:7px;
+margin-left: 30px;
+}
+#mainconst{
+    top:10px;
+    position:fixed;
+    height:60px;
+    width:1030px;
+    background-color: rgb(20, 20, 20);
+    border-radius:10px;
+    margin-left: 330px;
+    color:white;
+    z-index:1;
+}
+.home{
+ margin-top: 5px;
+}
+#div{
+    display: flex;
+    gap: 100px;
+}
+#hlo{
+font-size:30px;
+margin-top: -10px;
+}
+
+#ineerdiv{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#butoon{
+    background-color: white;
+    color:black;
+    border:1px solid white;
+    border-radius: 15px;
+    font-size: 15px;
+}
+#divcon a{
+    font-size:13px;
+}
+#colorblue{
+    background-color: rgb(85, 82, 82);
+    border: 1px solid white;
+    color:white;
+    border-radius: 20px;
+    
+}
+#suopport{
+    display: flex;
+    gap:40px;
+    margin-left: 500px;
+    margin-top:10px;
+}
+#btnbotton{
+    color:black;
+    background-color: white;
+    border:1px solid white;
+    border-radius:20px;
+    width:100px
+}
+#footooooo{
+    display: flex;
+    color:white;
+}
+#btnbottonoo{
+    color:black;
+    background-color: white;
+    border:1px solid white;
+    border-radius:20px;
+    width:150px;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+#previous{
+    margin-top: -20px;
+}

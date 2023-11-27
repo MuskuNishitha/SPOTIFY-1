@@ -1,0 +1,90 @@
+#maindivco{
+   
+    color:white;
+    margin-left:335px;
+    display: flex;
+    gap:650px;
+}
+#hellogay{
+    top:40px;
+    position: relative;
+}
+.card-group{
+    color: white !important;;
+    background-color: black!important;
+}
+#hellocard{
+    margin-left: 350px;
+}
+#heightwidth{
+    height:100px;
+    width:1000px;
+    gap: 20px;
+    
+
+}
+.card{
+    color:white !important;
+    background-color: black!important;
+    
+}
+#maindivconta p{
+font-size:13px;
+}
+#maindivconta{
+    margin-right:500px;
+}
+#maincontainet{
+    top:270px;
+    position: relative;
+    color:white;
+    margin-left: 350px;
+}
+#highhtt{
+    height:100px;
+    width:400px;
+    gap: 20px;
+     
+}
+#anudeek p{
+    font-size:13px;
+
+}
+#focuss{
+    top:230px;
+    position: relative;
+    color:white
+}
+#alla{
+    display: flex;
+    gap:800px;
+}
+#showall{
+    margin-top: 20px;
+}
+#container{
+    margin-top:250px;
+}
+#sougroup{
+    top:500px;
+    position: relative;
+}
+#inercon{
+    color:white;
+top:560px;
+position: relative;
+margin-left: 340px;
+}
+#allafoucs{
+    display: flex;
+    gap:800px;
+}
+#sougroup{
+    margin-left: 340px;
+    width:1000px;
+    margin-top: -150px;
+    gap:5px;
+}
+#container h5{
+    font-size:16px;
+}

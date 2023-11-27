@@ -1,0 +1,23 @@
+#divvcompany{
+    top:580px;
+    position: relative;
+    color:white;
+    margin-left: 350px;
+}
+#divvcompany a{
+    color:rgb(201, 189, 189);
+}
+#divvcompany a:hover{
+    color:white;
+    text-decoration: underline;
+}
+#heycont{
+    display: flex;
+    gap:190px;
+}
+#divtag{
+    top:580px;
+    position: relative;
+    color:white;
+    margin-left: 320px;
+}
